@@ -1,0 +1,14 @@
+.card {
+    color: #222222;
+    background: lightgray;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 8px dotted brown;
+    border-radius: 30px;
+
+    padding: 20px
+
+}

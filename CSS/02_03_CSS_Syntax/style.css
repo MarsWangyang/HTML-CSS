@@ -1,0 +1,8 @@
+body {
+    background: #8B4512;   /* red, blue, yellow, etc. */
+    color:  cadetblue;     /* red, blue, yellow, etc. */
+    font-size: 40px;         /* 0px - 100px and beyond */ 
+    font-weight: bolder;     /* lighter, normal, bold */
+    text-align: center;      /* left, center, or right */
+    margin-top: 20px;        /* From 0px and upwards */
+}
