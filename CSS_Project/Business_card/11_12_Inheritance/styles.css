@@ -1,0 +1,26 @@
+body {
+    margin: 20px;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card{
+    width: 400px;
+    display: flex;    
+    background: #b1d7f9;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right:auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.dot-black-border {
+    border: 1px dotted #000000;
+}
